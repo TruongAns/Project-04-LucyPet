@@ -1,0 +1,27 @@
+/* common */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 62.5%;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Sora", sans-serif;
+}
+
+:root {
+    --bg-color-primary: #FFFAF5;
+    --bg-color-secondary: #FFF6ED;
+    --text-color-desc: #656689;
+    --text-color-heading: #000958;
+}
