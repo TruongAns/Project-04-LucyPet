@@ -1028,7 +1028,7 @@ a {
 }
 
 .benefit__item::before {
-    content: url(/assets/img/pricing/check.svg);
+    content: url(./assets/img/pricing/check.svg);
 }
 
 
