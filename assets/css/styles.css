@@ -63,6 +63,7 @@ a {
 
 .btn:hover {
     border: 1px solid rgba(5, 11, 90, 1);
+    cursor: pointer;
 }
 
 .btn-primary {
@@ -1144,6 +1145,7 @@ a {
     color: #fff;
     background: var(--color--btn-primary);
     box-shadow: 2px 2px 50px 5px rgba(245, 89, 34, 0.5);
+    cursor: pointer;
 }
 
 .preview__control:nth-of-type(1) {
